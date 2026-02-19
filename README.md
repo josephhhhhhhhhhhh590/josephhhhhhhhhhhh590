@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hola, soy Hanner
 
-<!--
-**josephhhhhhhhhhhh590/josephhhhhhhhhhhh590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desarrollador Full Stack  
+🚀 Apasionado por crear aplicaciones escalables  
+☁️ Experiencia con cloud y backend moderno
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+![Angular](https://img.shields.io/badge/-Angular-red?logo=angular)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)
