@@ -38,7 +38,7 @@
       <br/>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="48" height="48"/>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48"/>
       <br/>NestJS
     </td>
     <td align="center" width="96">
@@ -68,7 +68,4 @@
 </table>
 
 
-## 📈 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josephhhhhhhhhhhh590&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephhhhhhhhhhhh590&layout=compact)
